@@ -32,7 +32,7 @@ These datasets were used for data cleaning, transformation, modeling, and dashbo
 - Dashboard <a href="https://github.com/kartik-2210/ECOMMERCE-SALES-ANALYSIS---POWER-BI-PROJECT/blob/main/Screenshot%202026-05-08%20023158.png">Dashboard View</a>
 <img width="1919" height="1022" alt="Screenshot 2026-05-08 023158" src="https://github.com/user-attachments/assets/0ad6f005-7da9-4de8-bca6-daac8198f1c9" />
 
-- Final Project <a href"=https://github.com/kartik-2210/ECOMMERCE-SALES-ANALYSIS---POWER-BI-PROJECT/blob/main/ECOMMERCE%20SALES%20DASHBOARD%20PROJECT%20POWER-BI.pbix">Final Project</a>
+- Final Project <a href="https://github.com/kartik-2210/ECOMMERCE-SALES-ANALYSIS---POWER-BI-PROJECT/blob/main/ECOMMERCE%20SALES%20DASHBOARD%20PROJECT%20POWER-BI.pbix">Final Project</a>
 
 ---
 
