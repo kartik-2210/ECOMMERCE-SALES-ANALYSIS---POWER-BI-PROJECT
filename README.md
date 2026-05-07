@@ -20,7 +20,7 @@ The main goal of this project is to transform raw sales data into an easy-to-und
 The raw datasets used in this project are provided below:
 
 - <a href="https://github.com/kartik-2210/ECOMMERCE-SALES-ANALYSIS---POWER-BI-PROJECT/blob/main/Orders%20Raw%20Dataset.csv">Order Dataset View</a>
-- <a href="https://github.com/kartik-2210/ECOMMERCE-SALES-ANALYSIS---POWER-BI-PROJECT/blob/main/Details%20Raw%20Dataset.csv>Details Dataset View</a>
+- <a href="https://github.com/kartik-2210/ECOMMERCE-SALES-ANALYSIS---POWER-BI-PROJECT/blob/main/Details%20Raw%20Dataset.csv">Details Dataset View</a>
 
 These datasets were used for data cleaning, transformation, modeling, and dashboard creation in Power BI.
 
